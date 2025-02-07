@@ -1,0 +1,3 @@
+Creating a web app using python
+Created static web interface
+Finishing up with the first web app using python
